@@ -25,9 +25,18 @@ The **Roll-No** uniquely identifies each student record in the database to ensur
 
 ---
 
+## Web Page to UI
+![Screenshot 2025-04-13 213731](https://github.com/user-attachments/assets/42160411-05e0-4a9e-a127-aaf57f8ab0ac)
+
+## JsonPowerDB Database
+![Screenshot 2025-04-13 213810](https://github.com/user-attachments/assets/a3ea5187-bdcf-43f2-8d2c-b898a8149ca9)
+
+
+
 ## Release History
 
 ### v1.0 – Initial Release
 - ✅ Basic form UI created  
 - ✅ Connected to JsonPowerDB backend  
 - ✅ Implemented Insert and Fetch student records
+
